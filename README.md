@@ -16,7 +16,7 @@
 <img src="https://github.com/luoenen/SuperHuelLibrary/blob/master/image/QQ%E6%88%AA%E5%9B%BE20190111152603.png?raw=true">
 
 </img>
-<strong>Notice：</strong><br>
+<strong style="color:red">Notice：</strong><br>
 <i>
   屏蔽八楼西区，输入楼层座位必须与之座位XY对应
 </i>
