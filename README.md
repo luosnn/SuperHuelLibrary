@@ -18,5 +18,5 @@
 </img>
 <strong style="color:red">Notice：</strong><br>
 <i>
-  屏蔽八楼西区，输入楼层座位必须与之座位XY对应
+  屏蔽八楼西区，输入楼层座位必须与之座位XY对应。
 </i>
